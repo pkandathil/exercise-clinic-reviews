@@ -7,7 +7,7 @@ CrossFit West 10 was offering a rowing clinic. The reasons I decided to particip
 * I was using YouTube tutorials to help with my rowing but they had conflicting advice
 
 ## Review of the clinic ##
-The clinic was offered for amateurs; people at the gym who do not necessarily have a background in rowing. The clinic was in the context of CrossFit and not in the context of rowing on the water. Which means we did not learn about our oar and how to dip it in the water and pull it out. The instructors were Kim and Courtney.
+The clinic was offered for amateurs (people at the gym who do not necessarily have a background in rowing). The clinic was in the context of CrossFit and not in the context of rowing on the water. Which means we did not learn about our oar and how to dip it in the water and pull it out. The instructors were Kim and Courtney.
 
 ### Teaching Style ###
 * Both instructors took turns talking and giving us two perspectives. One was a lifelong rower, the other started when they were an adult. The two perspectives gave us a very balanced overview of what we were learning.
