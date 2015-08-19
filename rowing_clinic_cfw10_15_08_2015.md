@@ -4,10 +4,10 @@ Clinic was on 15-08-2015
 ## My Objective: ##
 CrossFit West 10 was offering a rowing clinic. The reasons I decided to participate are listed below:
 * I wanted to learn the basics of rowing to reduce injury and be able to do it even later in life
-* I was using YouTube tutorials to help with my rowing but they conflicting advice
+* I was using YouTube tutorials to help with my rowing but they had conflicting advice
 
 ## Review of the clinic ##
-The clinic was offered for amateurs. People at the gym who do not necessarily have background in rowing. The clinic was in the context of CrossFit and not in the context of rowing on the water. Which means we did not learn about our oar and how to dip it in the water and pull it out. The instructors were Kim and Courtney.
+The clinic was offered for amateurs; people at the gym who do not necessarily have a background in rowing. The clinic was in the context of CrossFit and not in the context of rowing on the water. Which means we did not learn about our oar and how to dip it in the water and pull it out. The instructors were Kim and Courtney.
 
 ### Teaching Style ###
 * Both instructors took turns talking and giving us two perspectives. One was a lifelong rower, the other started when they were an adult. The two perspectives gave us a very balanced overview of what we were learning.
@@ -19,13 +19,14 @@ The clinic was offered for amateurs. People at the gym who do not necessarily ha
 We learned the basics of how to use to "erg". How to strap in, set your feet, setup the drag factor and how high to place the monitor.
 
 ### Technique ###
-First we set a baseline for a 500m split. Then we worked on technique and redid that baseline. Hence you could see the changes/improvements
+First we set a baseline for a 500m split. Then we worked on technique and reset that baseline. Hence you could see the changes/improvements
 
 ### Common Mistakes ###
 They reviewed common mistakes that rowers make in their strokes. All of us were able to identify with one of more of these issues. It helped us see why it was wrong and how we can fix it.
 
 ### Drills ###
 Besides working on the technique we were taught drills that we can use on a regular basis to improve our technique.
+
 Warms up:
 * Arms only
 * Arms and body
@@ -33,7 +34,7 @@ Warms up:
 
 Pause drill: Take 5 strokes and pause at any stage of the drive phase. Check to see if your position is right
 
-Finally, we reviewed how to start on the erg. Many of us have see too many CrossFit athletes do this step incorrectly.
+Finally, we reviewed how to start on the erg. Many of us have seen too many CrossFit athletes do this step incorrectly.
 
 
 ## Final Words ##
