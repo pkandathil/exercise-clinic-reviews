@@ -15,7 +15,7 @@ The clinic was offered for amateurs (people at the gym who do not necessarily ha
 * They were very open to questions throughout the clinic.
 * While we were doing drills, they kept walking around and reviewing everyone's form.
 
-### Learn your equipment ###
+### Learn Your Equipment ###
 We learned the basics of how to use to "erg". How to strap in, set your feet, setup the drag factor and how high to place the monitor.
 
 ### Technique ###
