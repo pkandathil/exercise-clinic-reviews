@@ -27,7 +27,7 @@ They reviewed common mistakes that rowers make in their strokes. All of us were 
 ### Drills ###
 Besides working on the technique we were taught drills that we can use on a regular basis to improve our technique.
 
-Warms up:
+Warm up:
 * Arms only
 * Arms and body
 * Arms body legs
