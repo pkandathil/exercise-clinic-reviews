@@ -1,7 +1,7 @@
 # Rowing Clinic offered at Crossfit West 10
 Clinic was on 15-08-2015
 
-## My Objective: ##
+## My Objective ##
 CrossFit West 10 was offering a rowing clinic. The reasons I decided to participate are listed below:
 * I wanted to learn the basics of rowing to reduce injury and be able to do it even later in life
 * I was using YouTube tutorials to help with my rowing but they had conflicting advice
